@@ -1,0 +1,56 @@
+.banner {
+    background-image: url(../web_odev/images/arka_plan4.jpg);
+    background-position: center;
+    background-size: cover;
+}
+    .d {
+        background-color: #0F6292;
+        color: #fff;
+    }
+
+    .sola_kaydir {
+        border:15px solid #BDCDD6;
+        float: left;
+    } 
+
+    #f {
+        font-size: 25px;
+    }
+
+    h1 {
+        text-align: center;
+        color: #DDDDDD;
+        background-color: #567189;
+    }
+
+    h1::after {
+        content: '\1F622';
+    }
+
+    ol {
+        list-style-type: decimal ;
+    }
+
+    a {
+        text-decoration: none;
+        color: #fff;
+        background-color: #495579;
+    }
+
+    h3 {
+        color: #fff;
+        background-color:#4E6E81;
+    }
+
+    b {
+        color: #4E6E81;
+    }
+    
+    h5 {
+        font-size: 15px;
+    }
+
+    p {
+        font-size: 20px;
+        font-weight: 500;
+    }
